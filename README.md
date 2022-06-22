@@ -5,3 +5,4 @@ API : https://zenquotes.io/api/quotes/
 
 To see, how the app looks like So just scan the QR - 
 
+<img src="app.png"/>
